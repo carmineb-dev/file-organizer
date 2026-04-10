@@ -1,0 +1,17 @@
+# Python bytecode
+*.pyc
+__pycache__
+
+# Virtual environment
+venv/
+env/
+
+# IDE configuration files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
