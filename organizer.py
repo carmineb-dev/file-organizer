@@ -27,8 +27,8 @@ rules={
     ".jpg":"Immagini",
     ".png":"Immagini",
     ".pdf":"Documenti",
-    ".txt": "Documenti",
-    "docx": "Documenti",
+    ".txt":"Documenti",
+    ".docx":"Documenti",
     ".exe":"Programmi",
     ".mp4":"Video",
     ".zip":"Archivio"
