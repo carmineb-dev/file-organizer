@@ -1,17 +1,29 @@
-# Python bytecode
-*.pyc
-__pycache__
-
 # Virtual environment
+.venv/
 venv/
 env/
 
-# IDE configuration files
+# Config
+config/config.json
+.env
+
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+
+# IDE
 .vscode/
 .idea/
+*.swp
+*.swo
 
-# Log files
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
 *.log
-
-# Temporary files
-*.tmp
